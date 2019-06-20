@@ -1,0 +1,14 @@
+package marofmar.javatutorials.loop;
+
+public class whileDemo {
+
+	public static void main(String[] args) {
+		int i = 0;
+		while(i<10) {
+			System.out.println("Coding Everyday"+i);
+			i++;
+		}
+
+	}
+
+}
