@@ -1,0 +1,11 @@
+Reflect: Using History for Efficiency 
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term? 
+myA: "in long term" I could even spot my habitual errors and could be put some extra attention to fix that. Also, I could see how my code get improved step by step. My overall skill will be improved! 
+
+Reflect: Manual Commits
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+myA: Pros- I can only record meaningful changes in the logs. Cons- I might forget to make commits due to some other events, or being too occupied by sth else. 
+
+Reflect: Multi-File Commits 
+Q: Why do you think some version control systems, like git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+myA: I think the target users of each system is different. Git might have focused on developers, and the others, such as Google Docs might have targeted general user base. 

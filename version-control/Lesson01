@@ -1,0 +1,23 @@
+[code]
+git log
+git log --stat
+git diff id-a id-b
+git --version
+
+
+Versions
+- saving manual copies 
+- Dropbox 
+- Google Docs
+- Wikipedia 
+
+When to save?
+- I decide, to make meaningful records
+- A good rule of thumb is to make one commit per logical change. 
+
+Commits
+
+Using Git to View History 
+
+What is a README?
+Many projects contain a file named "README" that gives a general description of what the project does and how to use it. It's often aa good idea to read this file before doing anything with the project, so the file is given this name to make users more likely to read it. 
